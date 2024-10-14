@@ -58,7 +58,7 @@ Random Forest
 
 Model Evaluation:
 
-Performance is measured using RMSE (Root Mean Squared Error) on the training and validation sets.
+
 
 
 
