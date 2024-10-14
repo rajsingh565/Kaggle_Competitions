@@ -1,14 +1,15 @@
-﻿🏠 House Prices - Advanced Regression Techniques
+## ﻿🏠 House Prices - Advanced Regression Techniques
+
 This repository contains code and resources for the House Prices - Advanced Regression Techniques Kaggle competition. The goal of the project is to predict house prices using advanced regression models.
 
-🏡 Introduction
+## 🏡 Introduction
 
 In this project, I participate in the Kaggle competition titled "House Prices - Advanced Regression Techniques", where the goal is to predict the sale price of residential homes based on various features.
 The competition serves as an excellent opportunity to practice advanced machine learning regression techniques and feature engineering.
 
 You can access the competition here: House Prices - Advanced Regression Techniques.
 
-📊 Data
+## 📊 Data
 The dataset consists of two main files:
 
 train.csv: Contains the training data with house features and the corresponding sale prices.
@@ -16,7 +17,7 @@ train.csv: Contains the training data with house features and the corresponding 
 test.csv: Contains the test data, with house features but without sale prices (targets to predict).
 
 
-Key Features:
+## Key Features:
 
 MSSubClass: The building class.
 LotArea: The size of the lot (in square feet).
@@ -26,7 +27,7 @@ GrLivArea: Above-ground living area in square feet.
 SalePrice: The target variable in the training data (sale price of the house).
 
 
-🤖 Modeling Approach
+## 🤖 Modeling Approach
 The following steps outline the approach taken in this project:
 
 Data Preprocessing:
@@ -43,7 +44,7 @@ Creating new features from existing ones
 
 Selecting important features based on correlation and importance metrics
 
-Modeling:
+## Modeling:
 
 Training multiple models, including:
 
