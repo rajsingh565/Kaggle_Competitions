@@ -20,10 +20,15 @@ test.csv: Contains the test data, with house features but without sale prices (t
 ## Key Features:
 
 MSSubClass: The building class.
+
 LotArea: The size of the lot (in square feet).
+
 OverallQual: The overall material and finish quality.
+
 YearBuilt: The year the house was constructed.
+
 GrLivArea: Above-ground living area in square feet.
+
 SalePrice: The target variable in the training data (sale price of the house).
 
 
