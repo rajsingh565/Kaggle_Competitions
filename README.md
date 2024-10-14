@@ -55,13 +55,10 @@ Training multiple models, including:
 
 Linear Regression
 
-Ridge and Lasso Regression
-
 Gradient Boosting (XGBoost)
 
 Random Forest
 
-Model Evaluation:
 
 
 
