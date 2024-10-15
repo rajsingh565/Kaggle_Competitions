@@ -7,7 +7,7 @@ This repository contains code and resources for the House Prices - Advanced Regr
 In this project, I participate in the Kaggle competition titled "House Prices - Advanced Regression Techniques", where the goal is to predict the sale price of residential homes based on various features.
 The competition serves as an excellent opportunity to practice advanced machine learning regression techniques and feature engineering.
 
-You can access the competition here: House Prices - Advanced Regression Techniques.
+You can find the competition details and participate by following this link: [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques). 
 
 ## 📊 Data
 The dataset consists of two main files:
