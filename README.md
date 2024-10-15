@@ -60,6 +60,10 @@ Gradient Boosting (XGBoost)
 Random Forest
 
 
+## Resources
+- [Kaggle Competition Page](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+
+
 
 
 
